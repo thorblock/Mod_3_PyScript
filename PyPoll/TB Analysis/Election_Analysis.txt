@@ -1,0 +1,11 @@
+PyPoll_Analysis
+
+Election Results
+---------------------------------------------
+Total Votes:  369711
+---------------------------------------------
+Candidate: Charles Casper Stockham : 23.05 % ( 85213 )
+Candidate: Diana DeGette : 73.81 % ( 272892 )
+Candidate: Raymon Anthony Doane : 3.14 % ( 11606 )
+---------------------------------------------
+Election Winner:  ['Diana DeGette']
