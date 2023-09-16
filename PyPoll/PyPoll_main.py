@@ -3,7 +3,7 @@ import os
 import csv
 
 # Create and store filepath
-election_csv = os.path.join("","Resources","election_data.csv")
+election_csv = os.path.join("PyPoll","Resources","election_data.csv")
 
 # Col names as empty lists, no pandas
 ballot = []
